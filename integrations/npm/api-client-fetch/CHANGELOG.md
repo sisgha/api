@@ -1,5 +1,12 @@
 # @ladesa-ro/api-client-fetch
 
+## 1.0.0-next.32
+
+### Patch Changes
+
+- b77aed9: chore: improve automated generation with nx tasks
+- e54c05e: chore: code-static:fix
+
 ## 1.0.0-next.31
 
 ### Minor Changes

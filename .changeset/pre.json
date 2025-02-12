@@ -8,5 +8,32 @@
     "@ladesa-ro/api-client-fetch.docs": "1.0.0-alpha.27",
     "@ladesa-ro/api.integrations.openapi-json": "1.0.0-alpha.27"
   },
-  "changesets": ["curly-seas-fix", "honest-drinks-visit", "nasty-steaks-smoke", "olive-stingrays-camp", "silly-penguins-approve"]
+  "changesets": [
+    "afraid-houses-attend",
+    "beige-otters-cheat",
+    "calm-numbers-help",
+    "chatty-parrots-clean",
+    "cool-walls-hang",
+    "curly-seas-fix",
+    "dirty-feet-rescue",
+    "dull-bulldogs-love",
+    "eleven-kangaroos-compete",
+    "empty-dragons-hear",
+    "gentle-parrots-sneeze",
+    "honest-drinks-visit",
+    "hungry-paws-pull",
+    "light-glasses-explode",
+    "many-planes-suffer",
+    "nasty-steaks-smoke",
+    "nine-garlics-beam",
+    "ninety-turkeys-raise",
+    "olive-carpets-punch",
+    "olive-stingrays-camp",
+    "orange-toes-push",
+    "proud-geese-try",
+    "rotten-dryers-sin",
+    "serious-crews-itch",
+    "silly-penguins-approve",
+    "wicked-rats-listen"
+  ]
 }

@@ -1,5 +1,16 @@
 # @ladesa-ro/api-client-fetch.docs
 
+## 1.0.0-next.31
+
+### Minor Changes
+
+- ae01843: chore(docs/npm-api-client-fetch): path prefix
+
+### Patch Changes
+
+- b77aed9: chore: improve automated generation with nx tasks
+- e54c05e: chore: code-static:fix
+
 ## 1.0.0-next.30
 
 ### Minor Changes

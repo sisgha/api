@@ -1,5 +1,13 @@
 # @ladesa-ro/api.integrations.openapi-json
 
+## 1.0.0-next.32
+
+### Patch Changes
+
+- b77aed9: chore: improve automated generation with nx tasks
+- b539fe4: fix(api-service/swagger): tag "diarios-professores"
+- e54c05e: chore: code-static:fix
+
 ## 1.0.0-next.31
 
 ### Minor Changes
