@@ -1,8 +1,10 @@
 {
   "name": "@ladesa-ro/api.integrations.openapi-json",
-  "version": "1.0.0-next.31",
+  "version": "1.0.0-next.32",
   "private": true,
-  "files": ["json/**/*"],
+  "files": [
+    "json/**/*"
+  ],
   "scripts": {
     "generate": "nx run generate"
   }

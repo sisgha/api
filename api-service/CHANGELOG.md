@@ -1,5 +1,15 @@
 # @ladesa-ro/api.service
 
+## 1.0.0-next.31
+
+### Patch Changes
+
+- b77aed9: chore: improve automated generation with nx tasks
+- b539fe4: fix(api-service/swagger): tag "diarios-professores"
+- d9b0e77: fix(api-service/evento): rrule instead of dataInicio and dataTermino
+- e54c05e: chore: code-static:fix
+- 3245dab: change(api-service/main): use /swagger instead of /doc-api
+
 ## 1.0.0-next.30
 
 ### Minor Changes
